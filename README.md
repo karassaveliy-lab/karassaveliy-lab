@@ -9,6 +9,7 @@ I am the founder-developer of [SETID Prep](https://setid.ru), an online platform
 - **Backend:** Node.js, NestJS, FastAPI, REST APIs, WebSockets, Socket.IO
 - **Data:** PostgreSQL, Prisma, SQLite, Redis
 - **Web:** TypeScript, JavaScript, Next.js, React
+- **Browser automation & scraping:** Playwright testing, web scraping
 - **Infrastructure:** Docker, Docker Compose, Linux, Git, CI/CD; Kubernetes fundamentals
 
 I also have project-based experience maintaining commercial websites and web applications, and have built backend components in team hackathons across education, e-commerce, fintech, and service platforms.
